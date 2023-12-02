@@ -1,2 +1,3 @@
 # XTCHttp
-A XTC http tool 
+获取计步信息 等级信息 好友账号（绑定号及account id） 浏览任意型号的应用商店
+但是表被爆了所以jb开发一半写不了了
